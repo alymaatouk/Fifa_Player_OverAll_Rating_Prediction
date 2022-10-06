@@ -1,6 +1,6 @@
 # Fifa_Player_OverAll_Rating_Prediction
 
-Access the app usinf this [link](https://alimaatouq-ml-player-overall-rating-rfedeploy-drd99q.streamlitapp.com/)
+Access the app usinf this [link](https://alymaatouk-fifa--machine-learning-deploy-model-streamlit-36c20r.streamlitapp.com/)
 
 ![image](https://user-images.githubusercontent.com/115188345/194417120-b9f529f6-7131-4d29-a863-59517420fcc4.png)
 
