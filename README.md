@@ -12,4 +12,6 @@ The first thing that any ML Engineer should do is to define the problem. For thi
 ## Select a Performance Measure
 
 Now that we have defined the problem, we need to select a performance measure. I like to use the Root Mean Square Error (RMSE). This is the preferred performance measure for regression problems. The RMSE is a measure of how well the model performed. It gives an idea of how much error the system makes in its prediction. RMSE is the calculation of the residuals (prediction errors) with respect to the line of best fit. The formula can be seen below:
+
+
 ![1 st1zZN7rHX8KYy_BZWYETg](https://user-images.githubusercontent.com/115188345/194416690-4857ff93-f9b0-40e1-9005-f14cff053a06.png)
